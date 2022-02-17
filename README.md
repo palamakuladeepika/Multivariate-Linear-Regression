@@ -44,7 +44,7 @@ print('Predicted co2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-![output](cars deepika.png)
+![output](carsdeepika.png)
 
 
 
